@@ -1,9 +1,14 @@
 
-### Hi there 👋
+
 
 
 
 ![github-header-image (1)](https://user-images.githubusercontent.com/102930092/202773832-72dce34f-2ad9-47b6-867a-8f5219e28b2d.png)
+
+### Hi there 👋
+Soy Juan Ignacio...
+
+
 
 ### Lenguajes y Herramientas🛠️
 ```js
