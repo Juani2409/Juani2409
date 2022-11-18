@@ -17,15 +17,7 @@ const Juani2409 = {
 
 ### Mis Proyectos❤️
 
-Proyecto Individual 
 
-Primer proyecto realizado para poner en practica todo lo aprendido en el bootcamp de SoyHenry. 
-Se desarrolló una pagina web en la cual se pueden utilizar diversas funcionalidades como filtrados, ordenamientos, detalles de cada uno de los paises y se le pueden agregar actividades a cada uno de ellos.
-
-![pi-img-countries](https://user-images.githubusercontent.com/102930092/202775955-df5eb57f-badd-49b0-a918-4d94062e6db6.jpg)
-
-Repositorio : https://github.com/Juani2409/pi-countries-be
-Repositorio : https://github.com/Juani2409/pi-countries-fe
 
 
 Proyecto Grupal
@@ -44,5 +36,14 @@ YouTube : https://youtu.be/gGcDLVBeC0U
 Demo : https://e-commerce-pf-henna.vercel.app/
 
 
+Proyecto Individual 
+
+Primer proyecto realizado para poner en practica todo lo aprendido en el bootcamp de SoyHenry. 
+Se desarrolló una pagina web en la cual se pueden utilizar diversas funcionalidades como filtrados, ordenamientos, detalles de cada uno de los paises y se le pueden agregar actividades a cada uno de ellos.
+
+![pi-img-countries](https://user-images.githubusercontent.com/102930092/202775955-df5eb57f-badd-49b0-a918-4d94062e6db6.jpg)
+
+Repositorio : https://github.com/Juani2409/pi-countries-be
+Repositorio : https://github.com/Juani2409/pi-countries-fe
 
 
