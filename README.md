@@ -6,7 +6,10 @@
 ![github-header-image (1)](https://user-images.githubusercontent.com/102930092/202773832-72dce34f-2ad9-47b6-867a-8f5219e28b2d.png)
 
 ### Hi there 👋
-Soy Juan Ignacio...
+
+Recientemente finalicé el bootcamp de Desarrollo Web Fullstack en Henry, allí he adquirido conocimiento de HTML, CSS, React.js, Redux, Node.js, Express, PostgreSQL y otras tecnologías. Estas herramientas representan la base para continuar desarrollando mis habilidades en el área de programación Web. Previamente he desarrollado mi experiencia en otros campos, lo cual me brinda al día de hoy una óptica de negocio enriquecida. Me considero una persona comprometida, versátil, bien predispuesta ante los desafíos y con facilidad para trabajar tanto en equipo como individualmente. 
+
+Si te interesa mi perfil, escribime a jigrodz@gmail.com.
 
 
 
